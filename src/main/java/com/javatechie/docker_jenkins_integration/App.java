@@ -14,4 +14,8 @@ public class App
 	public void method() {
 		System.out.println("Hello method !");
 	}
+
+	public void secondMethod() {
+		System.out.println("Hello again !");
+	}
 }
